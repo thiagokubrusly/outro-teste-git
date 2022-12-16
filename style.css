@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: white;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
