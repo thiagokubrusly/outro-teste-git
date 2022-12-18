@@ -1,4 +1,4 @@
-let pilotName = prompt ("Insira o seu nome, piloto")
+let pilotName = prompt ("Insira o seu nome, piloto cangaceiro")
 
 let velocityInicial = 0
 
